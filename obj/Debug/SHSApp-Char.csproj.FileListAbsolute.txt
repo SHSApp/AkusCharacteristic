@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\bin\Debug\SHSApp-Char.exe
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\bin\Debug\SHSApp-Char.pdb
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Debug\App.g.cs
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Debug\SHSApp-Char_MarkupCompile.cache
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Debug\SHSApp-Char_MarkupCompile.lref
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Debug\SHSApp-Char.g.resources
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Debug\SHSApp_Char.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Debug\SHSApp-Char.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Debug\SHSApp-Char.exe
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Debug\SHSApp-Char.pdb

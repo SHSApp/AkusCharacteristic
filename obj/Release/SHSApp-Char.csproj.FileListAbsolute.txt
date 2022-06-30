@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\bin\Release\SHSApp-Char.exe
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\bin\Release\SHSApp-Char.pdb
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Release\MainWindow.g.cs
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Release\App.g.cs
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Release\SHSApp-Char_MarkupCompile.cache
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Release\SHSApp-Char_MarkupCompile.lref
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Release\MainWindow.baml
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Release\SHSApp-Char.g.resources
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Release\SHSApp_Char.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Release\SHSApp-Char.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Release\SHSApp-Char.exe
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\obj\Release\SHSApp-Char.pdb

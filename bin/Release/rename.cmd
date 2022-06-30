@@ -1,0 +1,1 @@
+copy /Y C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\bin\Release\SHSApp-Char.exe C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Char\bin\Release\SHSApp-Profuchet.exe
